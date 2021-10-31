@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/breakfast-station/static/css/main.fd70772e.chunk.css",
-    "main.js": "/breakfast-station/static/js/main.d88dba5f.chunk.js",
-    "main.js.map": "/breakfast-station/static/js/main.d88dba5f.chunk.js.map",
+    "main.js": "/breakfast-station/static/js/main.6d7335fd.chunk.js",
+    "main.js.map": "/breakfast-station/static/js/main.6d7335fd.chunk.js.map",
     "runtime-main.js": "/breakfast-station/static/js/runtime-main.6a7efbda.js",
     "runtime-main.js.map": "/breakfast-station/static/js/runtime-main.6a7efbda.js.map",
     "static/css/2.207e99fc.chunk.css": "/breakfast-station/static/css/2.207e99fc.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.207e99fc.chunk.css",
     "static/js/2.c4f400a9.chunk.js",
     "static/css/main.fd70772e.chunk.css",
-    "static/js/main.d88dba5f.chunk.js"
+    "static/js/main.6d7335fd.chunk.js"
   ]
 }
