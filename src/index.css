@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "OakesGroteskRegular";
+  src: local("OakesGroteskRegular"),
+    url(./fonts/Oakes-Grotesk-Regular.ttf) format("truetype");
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: "OakesGroteskBold";
+  src: local("OakesGroteskBold"),
+    url(./fonts/Oakes-Grotesk-Bold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "OakesGroteskMediumr";
+  src: local("OakesGroteskMedium"),
+    url(./fonts/Oakes-Grotesk-Medium.ttf) format("truetype");
+}
+@font-face {
+  font-family: "OakesGroteskLight";
+  src: local("OakesGroteskLight"),
+    url(./fonts/Oakes-Grotesk-Light.ttf) format("truetype");
+}
+.test {
+  @apply font-sans text-gray-400 text-9xl;
 }

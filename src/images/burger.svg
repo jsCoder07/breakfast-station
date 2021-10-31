@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+  >
+  <defs
+     id="defs2" />
+  <g
+     id="bottom">
+    <path
+       style={{display:"inline",fill:"none",stroke:"#000000",strokeWidth:0.820208,strokeLinecap:"round",strokeLinejoin:"round",strokeMiterlimit:4,strokeDasharray:"none",strokeOpacity:1}}
+       d="m 49.46219,74.327284 c 4.233444,0 8.466777,0 12.7,0"
+       id="path1472-8" />
+  </g>
+  <g
+     id="middle"
+     style={{display:"inline"}}>
+    <path
+       style={{display:"inline",fill:"none",stroke:"#000000",strokeWidth:0.820208,strokeLinecap:"round",strokeLinejoin:"round",strokeMiterlimit:4,strokeDasharray:"none",strokeOpacity:1}}
+       d="m 49.46219,71.100313 c 4.233444,0 8.466777,0 12.7,0"
+       id="path1472-7" />
+    <path
+       style={{display:"inline",fill:"none",stroke:"#000000",strokeWidth:0.820208,strokeLinecap:"round",strokeLinejoin:"round",strokeMiterlimit:4,strokeDasharray:"none",strokeOpacity:1}}
+       d="m 52.624962,74.699769 c 3.022877,-2.963827 6.045675,-5.927575 9.068393,-8.891246"
+       id="path1472-7-7" />
+    <path
+       style={{display:"inline",fill:"none",stroke:"#000000",strokeWidth:0.820208,strokeLinecap:"round",strokeLinejoin:"round",strokeMiterlimit:4,strokeDasharray:"none",strokeOpacity:1}}
+       d="m 62.16219,67.744088 c 1.636021,0 3.271742,0 3.668427,-0.743605 0.396685,-0.743605 -0.445558,-2.231154 -1.341656,-2.553927 -0.896098,-0.322772 -1.845834,0.519581 -2.795606,1.361967"
+       id="path4229" />
+    <path
+       style={{display:"inline",fill:"none",stroke:"#000000",strokeWidth:0.820208,strokeLinecap:"round",strokeLinejoin:"round",strokeMiterlimit:4,strokeDasharray:"none",strokeOpacity:1}}
+       d="m 52.624961,67.371603 c 3.022877,2.963827 6.045675,5.927575 9.068393,8.891246"
+       id="path1472-7-7-4" />
+    <path
+       style={{display:"inline",fill:"none",stroke:"#000000",strokeWidth:0.820208,strokeLinecap:"round",strokeLinejoin:"round",strokeMiterlimit:4,strokeDasharray:"none",strokeOpacity:1}}
+       d="m 62.16219,74.327284 c 1.636021,0 3.271741,0 3.668426,0.743605 0.396685,0.743605 -0.445557,2.231154 -1.341656,2.553927 -0.896098,0.322772 -1.845834,-0.519582 -2.795605,-1.361967"
+       id="path4229-2" />
+  </g>
+  <g
+     id="top"
+     style="display:inline">
+    <path
+       style={{display:"inline",fill:"none",stroke:"#000000",strokeWidth:0.820208,strokeLinecap:"round",strokeLinejoin:"round",strokeMiterlimit:4,strokeDasharray:"none",strokeOpacity:1}}
+       d="m 49.46219,67.744088 c 4.233444,0 8.466777,0 12.7,0"
+       id="path1472" />
+  </g>
+</svg>
